@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://pkvgamess.arrayfire.org/sitemap.xml
